@@ -19,7 +19,7 @@
   },
   "preferGlobal": true,
   "bin": {
-    "snake": "./lib/index.js"
+    "snake": "lib/index.js"
   },
   "keywords": [
     "Snake",
